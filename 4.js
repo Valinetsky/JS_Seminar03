@@ -36,6 +36,6 @@ console.log(
         1337
     )}`
 );
-console.log(`Умножение 2 и 6: ${multiply(2, 6)}`);
-console.log(`Деление 2 и 6: ${divide(2, 6)}`);
-console.log(`Деление 2 и 0: ${divide(2, 0)}`);
+console.log(`Умножение для пары 2 и 6: ${multiply(2, 6)}`);
+console.log(`Деление для пары 2 и 6: ${divide(2, 6)}`);
+console.log(`Деление для пары 2 и 0: ${divide(2, 0)}`);
